@@ -1,10 +1,10 @@
-223
+234
 mesh editor_plane_low
-mesh tree_aspen_summer
-mesh tree_aspen_summer_3
-mesh tree_aspen_summer_7
+mesh flag_pole_big
+mesh flag_stand_white2
 prefab _decal
 prefab ambient_sound_emitter
+prefab attacker_spawn_visual
 prefab battleground_fire_smoke_vertical
 prefab bd_barrel_a
 prefab bd_barrel_b
@@ -48,8 +48,10 @@ prefab bd_table_e
 prefab bd_table_small_a
 prefab bd_wood_c
 prefab bd_wood_heap_c
+prefab border_soft
 prefab burning_campfire
 prefab burning_campfire_big
+prefab capture_flag_a
 prefab cave_desert_rock_a
 prefab cave_desert_rock_b
 prefab cave_desert_rock_small_a
@@ -68,6 +70,11 @@ prefab european_castle_bridge_a_destroyed
 prefab european_castle_bridge_a_new_destroyed
 prefab fire_light
 prefab fire_stones_battania
+prefab flag_pole_big_sergeant_A
+prefab flag_pole_big_sergeant_B
+prefab flag_pole_big_sergeant_C
+prefab flag_raising_boundary
+prefab flag_stand_big
 prefab foods_Cooked lobster
 prefab foods_Cooked sheep head
 prefab foods_basket_apple
@@ -135,6 +142,8 @@ prefab merchandise_cloth_a
 prefab merchandise_fish_a
 prefab merchandise_fish_b
 prefab merchandise_fish_barrel_a
+prefab mp_camera_start_pos
+prefab mp_spawnpoint
 prefab neck_helper
 prefab pelvis_helper
 prefab pot_a
@@ -165,6 +174,8 @@ prefab rock_new_e
 prefab rock_new_green_e
 prefab shop_prop_merchantbeer_c
 prefab shop_prop_merchantbeer_d
+prefab skirmish_start_spawn
+prefab spawn_visual
 prefab spine1_helper
 prefab spine2_helper
 prefab spine_helper
